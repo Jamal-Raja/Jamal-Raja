@@ -1,9 +1,16 @@
-- 👋 Hi, I’m @Jamal-Raja
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on anything that will develop my coding skills
+# Hi there 👋, I'm Jamal Raja  
 
-<!---
-Jamal-Raja/Jamal-Raja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 Aspiring full-stack developer, currently enrolled in the **Step8Up Full-Stack Web Development Level 4 Skills Bootcamp (BCS accredited)**.  
+🌱 Building a foundation in modern web technologies through hands-on projects.  
+
+---
+
+## 🔨 Tech I’m Learning  
+- HTML, CSS, Responsive Design  
+- JavaScript (Vanilla & Advanced)  
+- Python basics  
+- Node.js & Express  
+- SQL & Sequelize  
+- React & Component-Based Architecture  
+
+---
