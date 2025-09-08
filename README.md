@@ -14,3 +14,9 @@
 - React & Component-Based Architecture  
 
 ---
+
+## 📌 Projects  
+- [**Citiline Website**](https://jamal-raja.github.io/Citiline-Website/) – A responsive, professional site built with HTML, CSS, JavaScript, and Python. Focused on accessibility, interactivity, and user trust.
+
+
+---
