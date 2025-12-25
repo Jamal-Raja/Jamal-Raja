@@ -7,7 +7,7 @@ I enjoy solving non-trivial problems, digging into bugs until I understand the r
 ---
 
 ## 📚 Current Project (In Development)
-Currently building **Finance Machine** — a full-stack personal finance platform using Next.js, PostgreSQL, Drizzle ORM, and NextAuth inspired by Martin Lewis's MoneySavingExpert platform
+Currently building **Finance Machine** — a full-stack personal finance platform using TypeScript, Next.js, PostgreSQL, Drizzle ORM, and NextAuth inspired by Martin Lewis's MoneySavingExpert platform
 
 ---
 
