@@ -2,7 +2,7 @@
 
 Recent graduate of **Step8Up Full-Stack Development Level 4 (BCS-accredited)** with hands-on experience building, testing, and deploying full-stack web applications. Comfortable working across the stack, including frontend architecture, backend APIs, authentication flows, and relational database design.
 
-I enjoy solving non-trivial problems, digging into bugs until I understand the root cause, and improving codebases over time rather than treating projects as “finished”. I’m actively looking for a junior software developer or full-stack developer role where I can contribute to production code, learn from code reviews, and continue developing strong engineering fundamentals.
+I enjoy solving non-trivial problems, digging into bugs until I understand the root cause, and improving codebases over time rather than treating projects as “finished”. I’m actively looking for a software developer or full-stack developer role where I can contribute to production code, learn from code reviews, and continue developing strong engineering fundamentals.
 
 ---
 
