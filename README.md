@@ -7,33 +7,34 @@ I enjoy solving non-trivial problems, digging into bugs until I understand the r
 ---
 
 ## 📚 Current Project (In Development)
-Currently building **Finance Machine** — a full-stack personal finance platform using TypeScript, Next.js, PostgreSQL, Drizzle ORM, and NextAuth inspired by Martin Lewis's MoneySavingExpert platform
+Currently building **Finance Machine** — Built with Next.js, React, TypeScript, PostgreSQL, Drizzle ORM, and NextAuth — every part of the stack chosen and implemented by me, from the database design through to the frontend. The centrepiece is an interactive 15-step flowchart that guides users through their personal finance journey, built with React Flow.
+
+Still lots to add. But feel free to take a look — thefinancemachine.co.uk
 
 ---
 
 ## 🔨 Tech Stack
-- Next.js
-- Next-Auth + OAuth  
-- React
-- TailwindCSS + Bootstrap
 - TypeScript
 - JavaScript 
+- Next.js
+- React
+- Next-Auth + OAuth  
+- TailwindCSS + Bootstrap
 - SQL (MySQL, PostgreSQL)
 - ORM's: Sequalize, Prisma, Drizzle
 - Node.js & Express
-- JWT + Bcrypt
+- JWT + Bcrypt + Argon2
+- Resend
+- React flow 
 - HTML & CSS
 - Python
-
-## Deployment & Tooling
-- Railway, Render, github-pages
-- DaisyUI and ReactBits
 
 ---
 
 ## 📌 Projects  
 
 - [**Personal Portfolio Current**](https://jamal-raja.github.io/react-portfolio-jkr/) – My personal portfolio built in React and TailwindCSS. Showcasing my projects, skills, and experience as a full-stack developer.
+- [**Finance Machine**](www.thefinancemachine.co.uk) – A full-stack personal finance platform built with Next.js, TypeScript, PostgreSQL, and Drizzle ORM. Features an interactive UK personal finance roadmap, budgeting tools, and step-by-step financial guidance — from clearing debt to building long-term wealth.
 - [**SONA – Full-Stack Blogging Platform**](https://sona-fullstack-blogging-platform-production.up.railway.app/) – A modern full-stack blogging platform featuring secure authentication, full blog CRUD functionality, category filtering, responsive interfaces, and a RESTful API
 - [**Citiline Website**](https://jamal-raja.github.io/Citiline-Website/) – A responsive, professional site built with HTML, CSS, JavaScript, and Python. Focused on accessibility, interactivity, and user trust.
 - [**Clarity — Minimalist Note App**](https://clarity-7op9.onrender.com/) – Clarity is a minimalist note-taking web app built with Express, Tailwind CSS v4, and DaisyUI.
