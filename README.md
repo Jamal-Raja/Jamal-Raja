@@ -9,7 +9,7 @@ I enjoy solving non-trivial problems, digging into bugs until I understand the r
 ## 📚 Current Project (In Development)
 Currently building **Finance Machine** — Built with Next.js, React, TypeScript, PostgreSQL, Drizzle ORM, and NextAuth — every part of the stack chosen and implemented by me, from the database design through to the frontend. The centrepiece is an interactive 15-step flowchart that guides users through their personal finance journey, built with React Flow.
 
-Still lots to add. But feel free to take a look — thefinancemachine.co.uk
+Still lots to add. But feel free to take a look — www.thefinancemachine.co.uk
 
 ---
 
