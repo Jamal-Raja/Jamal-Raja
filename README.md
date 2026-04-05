@@ -36,7 +36,7 @@ Still lots to add. But feel free to take a look — www.thefinancemachine.co.uk
 - [**Personal Portfolio Current**](https://jamal-raja.github.io/react-portfolio-jkr/) – My personal portfolio built in React and TailwindCSS. Showcasing my projects, skills, and experience as a full-stack developer.
 - [**Finance Machine**](www.thefinancemachine.co.uk) – A full-stack personal finance platform built with Next.js, TypeScript, PostgreSQL, and Drizzle ORM. Features an interactive UK personal finance roadmap, budgeting tools, and step-by-step financial guidance — from clearing debt to building long-term wealth.
 - [**SONA – Full-Stack Blogging Platform**](https://sona-fullstack-blogging-platform-production.up.railway.app/) – A modern full-stack blogging platform featuring secure authentication, full blog CRUD functionality, category filtering, responsive interfaces, and a RESTful API
-- [**Citiline Website**](https://jamal-raja.github.io/Citiline-Website/) – A responsive, professional site built with HTML, CSS, JavaScript, and Python. Focused on accessibility, interactivity, and user trust.
+- [**Citiline Website**](https://citiline.co.uk/) – A responsive, professional site built with HTML, CSS, JavaScript, and Python. Focused on accessibility, interactivity, and user trust.
 - [**Clarity — Minimalist Note App**](https://clarity-7op9.onrender.com/) – Clarity is a minimalist note-taking web app built with Express, Tailwind CSS v4, and DaisyUI.
 - [**First Portfolio**](https://jamal-raja.github.io/first-Portfolio/) – My first portfolio built in HTML, CSS and JavaScript. Responsive portfolio website showcasing my projects, skills, and experience as a full-stack developer.
 
